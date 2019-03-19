@@ -6,5 +6,22 @@
   "repository": "https://github.com/bbathel12/rrule_gui",
   "author": "bbathel12",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-ui-css": "^1.11.5",
+    "jqueryui": "^1.11.1",
+    "nodemon": "^1.18.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "babel-loader": "^8.0.5"
+  }
 }
