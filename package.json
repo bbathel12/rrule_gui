@@ -1,0 +1,10 @@
+{
+  "name": "rrule_gui",
+  "version": "1.0.0",
+  "description": "a gui for selecting recurring meeting dates",
+  "main": "index.js",
+  "repository": "https://github.com/bbathel12/rrule_gui",
+  "author": "bbathel12",
+  "license": "MIT",
+  "private": true
+}
